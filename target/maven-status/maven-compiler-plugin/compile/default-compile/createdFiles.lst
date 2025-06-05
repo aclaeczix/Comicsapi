@@ -1,0 +1,7 @@
+mx\unam\aragon\ico\is\comicsapi\excepciones\ManejadorGlobalDeErrores.class
+mx\unam\aragon\ico\is\comicsapi\ComicsapiApplication.class
+mx\unam\aragon\ico\is\comicsapi\entities\Comic.class
+mx\unam\aragon\ico\is\comicsapi\services\Interfaces\ComicService.class
+mx\unam\aragon\ico\is\comicsapi\controllers\ComicController.class
+mx\unam\aragon\ico\is\comicsapi\repositories\ComicRepository.class
+mx\unam\aragon\ico\is\comicsapi\services\ComicServiceImpl.class
